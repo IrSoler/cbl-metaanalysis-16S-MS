@@ -1,1 +1,1 @@
-TBD
+Welcome to the repository for the study titled **STUDY II: Integrative analysis to identify sex-differential gut microbiota signatures in multiple sclerosis.** This repository contains the step-by-step scripts developed for the bioinformatic analyses.
